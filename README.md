@@ -1,6 +1,6 @@
 # Advanced Threat Detection & Incident Management 🚀
 
-## Wipro | Helmerich & Payne | Chennai (Remote)
+## Wipro | Digital Nasional Berhad (DNB) | Chennai (Remote)
 🗓️ April 2022 – May 2023
 
 ### 🔹 Project Overview
